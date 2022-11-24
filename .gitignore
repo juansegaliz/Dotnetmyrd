@@ -1,0 +1,12 @@
+.vs/
+Dotnetmyrd.DTO/bin/
+Dotnetmyrd.DTO/obj/
+
+Dotnetmyrd.Database/bin/
+Dotnetmyrd.Database/obj/
+
+Dotnetmyrd.Persistence/bin/
+Dotnetmyrd.Persistence/obj/
+
+Dotnetmyrd/bin/
+Dotnetmyrd/obj/
